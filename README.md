@@ -1,4 +1,4 @@
 # Flood_Malaria_burden
-This repoitory give usew the code dor the regression , Monte calro simulation and geometric mean calcul;atiom.
-The data can be find in the link provided in the paper.
-In oder to reproduice trhe data please follow the methology develop for QGI in this link:
+This repository provides the code for the regression analysis, Monte Carlo simulations, and geometric mean calculations.
+The data can be found in the link provided in the paper.
+To reproduce the data, please follow the methodology developed for QGI, available at the following link: https://github.com/jeremyEudaric/SIRAF 
