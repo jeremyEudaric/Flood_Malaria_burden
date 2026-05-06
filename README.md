@@ -1,7 +1,7 @@
 # Flood_Malaria_burden
 Overview:
 
-This repository provides the code for regression analysis, Monte Carlo simulations, and geometric mean calculations.
+This repository provides the code for hierarchical Bayesian, Monte Carlo simulations, and geometric mean calculations.
 The data can be accessed through the link provided in the associated paper.
 
 Reproducibility:
